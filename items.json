@@ -35,7 +35,7 @@
     },
     {
         "itemID": "bow_3",
-        "itemType": 1,
+        "itemType": 0,
         "itemRarity": 1,
         "itemName": "Hunter's Bow",
         "spritePath": "bow_3.png",
