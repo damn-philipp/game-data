@@ -1,0 +1,20 @@
+[
+    {
+        "entityID": "three_headed_goose",
+        "entityName": "Three-Headed Goose",
+        "spritePath": "three_headed_goose.png",
+        "maxHealth": 20.0,
+        "scalingModifier": 1.1,
+        "entityIsEnemy": true,
+        "lootTable": [
+            {
+                "lootPrefabPath": "coin-1",
+                "dropRate": 80.0
+            },
+            {
+                "lootPrefabPath": "exp-orb-1",
+                "dropRate": 100.0
+            }
+        ]
+    }
+]
