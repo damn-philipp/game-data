@@ -3,17 +3,53 @@
         "entityID": "three_headed_goose",
         "entityName": "Three-Headed Goose",
         "spritePath": "three_headed_goose.png",
-        "maxHealth": 20.0,
+        "maxHealth": 10.0,
         "scalingModifier": 1.1,
         "entityIsEnemy": true,
         "lootTable": [
             {
-                "lootPrefabPath": "coin-1",
-                "dropRate": 80.0
+                "itemID": "currency:gold",
+                "dropChance": 0.8,
+                "minQuantity": 1,
+                "maxQuantity": 1
+            }
+        ]
+    },
+    {
+        "entityID": "bat",
+        "entityName": "Bat",
+        "spritePath": "bat.png",
+        "maxHealth": 5.0,
+        "scalingModifier": 1.1,
+        "entityIsEnemy": true,
+        "lootTable": [
+            {
+                "itemID": "currency:gold",
+                "dropChance": 0.8,
+                "minQuantity": 0,
+                "maxQuantity": 2
+            }
+        ]
+    },
+    {
+        "entityID": "apple_slime",
+        "entityName": "Apple Slime",
+        "spritePath": "apple_slime.png",
+        "maxHealth": 7.0,
+        "scalingModifier": 1.1,
+        "entityIsEnemy": true,
+        "lootTable": [
+            {
+                "itemID": "currency:gold",
+                "dropChance": 0.8,
+                "minQuantity": 1,
+                "maxQuantity": 3
             },
             {
-                "lootPrefabPath": "exp-orb-1",
-                "dropRate": 100.0
+                "itemID": "item:bow_3",
+                "dropChance": 0.2,
+                "minQuantity": 1,
+                "maxQuantity": 1
             }
         ]
     }
