@@ -39,7 +39,6 @@
         "itemRarity": 1,
         "itemName": "Hunter's Bow",
         "spritePath": "bow_3.png",
-        "prefabPath": "LootbagPrefab",
         "maxRollModifier": 1.4,
         "baseBaseDamage": 30.0,
         "baseStrScaling": 0.0,
@@ -47,6 +46,22 @@
         "baseIntScaling": 0.0,
         "baseConScaling": 0.0,
         "baseFaiScaling": 1.1,
+        "buyValue": 210.0,
+        "sellValue": 50.0
+    },
+    {
+        "itemID": "dagger_1",
+        "itemType": 0,
+        "itemRarity": 1,
+        "itemName": "Dagger",
+        "spritePath": "dagger_1.png",
+        "maxRollModifier": 1.2,
+        "baseBaseDamage": 30.0,
+        "baseStrScaling": 0.8,
+        "baseDexScaling": 1.4,
+        "baseIntScaling": 0.0,
+        "baseConScaling": 0.0,
+        "baseFaiScaling": 0.0,
         "buyValue": 210.0,
         "sellValue": 50.0
     }

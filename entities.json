@@ -3,7 +3,7 @@
         "entityID": "three_headed_goose",
         "entityName": "Three-Headed Goose",
         "spritePath": "three_headed_goose.png",
-        "maxHealth": 10.0,
+        "maxHealth": 12.0,
         "scalingModifier": 1.1,
         "entityIsEnemy": true,
         "lootTable": [
@@ -50,6 +50,44 @@
                 "dropChance": 0.2,
                 "minQuantity": 1,
                 "maxQuantity": 1
+            }
+        ]
+    },
+    {
+        "entityID": "mantis",
+        "entityName": "Mantis",
+        "spritePath": "mantis.png",
+        "maxHealth": 8.0,
+        "scalingModifier": 1.1,
+        "entityIsEnemy": true,
+        "lootTable": [
+            {
+                "itemID": "currency:gold",
+                "dropChance": 0.8,
+                "minQuantity": 1,
+                "maxQuantity": 2
+            },
+            {
+                "itemID": "item:dagger_1",
+                "dropChance": 0.2,
+                "minQuantity": 1,
+                "maxQuantity": 1
+            }
+        ]
+    },
+    {
+        "entityID": "hornet",
+        "entityName": "Giant Hornet",
+        "spritePath": "hornet.png",
+        "maxHealth": 14.0,
+        "scalingModifier": 1.2,
+        "entityIsEnemy": true,
+        "lootTable": [
+            {
+                "itemID": "currency:gold",
+                "dropChance": 0.8,
+                "minQuantity": 0,
+                "maxQuantity": 5
             }
         ]
     }
