@@ -10,7 +10,13 @@
         "lootTable": [
             {
                 "itemID": "currency:gold",
-                "dropChance": 0.8,
+                "dropChance": 0.67,
+                "minQuantity": 1,
+                "maxQuantity": 6
+            },
+            {
+                "itemID": "item:axe_1",
+                "dropChance": 0.05,
                 "minQuantity": 1,
                 "maxQuantity": 1
             }
@@ -27,9 +33,15 @@
         "lootTable": [
             {
                 "itemID": "currency:gold",
-                "dropChance": 0.8,
+                "dropChance": 0.36,
                 "minQuantity": 0,
                 "maxQuantity": 2
+            },
+            {
+                "itemID": "item:mace_1",
+                "dropChance": 0.042,
+                "minQuantity": 1,
+                "maxQuantity": 1
             }
         ]
     },
@@ -44,13 +56,13 @@
         "lootTable": [
             {
                 "itemID": "currency:gold",
-                "dropChance": 0.8,
-                "minQuantity": 1,
+                "dropChance": 0.7,
+                "minQuantity": 0,
                 "maxQuantity": 3
             },
             {
                 "itemID": "item:bow_3",
-                "dropChance": 0.2,
+                "dropChance": 0.12,
                 "minQuantity": 1,
                 "maxQuantity": 1
             }
@@ -67,13 +79,13 @@
         "lootTable": [
             {
                 "itemID": "currency:gold",
-                "dropChance": 0.8,
-                "minQuantity": 1,
+                "dropChance": 0.48,
+                "minQuantity": 0,
                 "maxQuantity": 2
             },
             {
                 "itemID": "item:dagger_1",
-                "dropChance": 0.2,
+                "dropChance": 0.04,
                 "minQuantity": 1,
                 "maxQuantity": 1
             }
@@ -90,9 +102,15 @@
         "lootTable": [
             {
                 "itemID": "currency:gold",
-                "dropChance": 0.8,
+                "dropChance": 0.22,
                 "minQuantity": 0,
                 "maxQuantity": 5
+            },
+            {
+                "itemID": "item:dagger_1",
+                "dropChance": 0.07,
+                "minQuantity": 1,
+                "maxQuantity": 1
             }
         ]
     }
