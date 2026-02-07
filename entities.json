@@ -16,7 +16,7 @@
             },
             {
                 "itemID": "item:axe_1",
-                "dropChance": 0.05,
+                "dropChance": 0.054,
                 "minQuantity": 1,
                 "maxQuantity": 1
             }
@@ -62,7 +62,7 @@
             },
             {
                 "itemID": "item:bow_3",
-                "dropChance": 0.12,
+                "dropChance": 0.027,
                 "minQuantity": 1,
                 "maxQuantity": 1
             }
@@ -85,7 +85,7 @@
             },
             {
                 "itemID": "item:dagger_1",
-                "dropChance": 0.04,
+                "dropChance": 0.021,
                 "minQuantity": 1,
                 "maxQuantity": 1
             }
