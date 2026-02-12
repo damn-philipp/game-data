@@ -35,7 +35,7 @@
     {
         "itemID": "dagger_1",
         "itemType": 0,
-        "itemRarity": 1,
+        "itemRarity": 0,
         "itemClass": 1,
         "itemName": "Dagger",
         "spritePath": "dagger_1.png",
@@ -52,7 +52,7 @@
     {
         "itemID": "axe_1",
         "itemType": 0,
-        "itemRarity": 1,
+        "itemRarity": 0,
         "itemClass": 4,
         "itemName": "Iron Axe",
         "spritePath": "axe_1.png",
@@ -69,7 +69,7 @@
     {
         "itemID": "mace_1",
         "itemType": 0,
-        "itemRarity": 1,
+        "itemRarity": 0,
         "itemClass": 3,
         "itemName": "Iron Mace",
         "spritePath": "mace_1.png",
