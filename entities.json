@@ -113,5 +113,28 @@
                 "maxQuantity": 1
             }
         ]
+    },
+    {
+        "entityID": "loot_cobold_1",
+        "entityName": "Barrel Cobold",
+        "spritePath": "loot_cobold_1.png",
+        "maxHealth": 20.0,
+        "scalingModifier": 1.5,
+        "entityIsEnemy": true,
+        "minSpawnFloor": 6,
+        "lootTable": [
+            {
+                "itemID": "currency:gold",
+                "dropChance": 0.33,
+                "minQuantity": 10,
+                "maxQuantity": 20
+            },
+            {
+                "itemID": "currency:forgeCube",
+                "dropChance": 0.67,
+                "minQuantity": 1,
+                "maxQuantity": 3
+            }
+        ]
     }
 ]
