@@ -133,6 +133,87 @@
                 "itemID": "currency:forgeCube",
                 "dropChance": 0.67,
                 "minQuantity": 1,
+                "maxQuantity": 5
+            },
+            {
+                "itemID": "item:axe_2",
+                "dropChance": 0.10,
+                "minQuantity": 1,
+                "maxQuantity": 1
+            }
+        ]
+    },
+    {
+        "entityID": "red_cobold",
+        "entityName": "Red Cobold",
+        "spritePath": "red_cobold.png",
+        "maxHealth": 27.0,
+        "scalingModifier": 1.2,
+        "entityIsEnemy": true,
+        "minSpawnFloor": 7,
+        "lootTable": [
+            {
+                "itemID": "currency:gem",
+                "dropChance": 0.10,
+                "minQuantity": 10,
+                "maxQuantity": 20
+            },
+            {
+                "itemID": "currency:forgeCube",
+                "dropChance": 0.14,
+                "minQuantity": 1,
+                "maxQuantity": 1
+            }
+        ]
+    },
+    {
+        "entityID": "forest_spider",
+        "entityName": "Forest Spider",
+        "spritePath": "forest_spider.png",
+        "maxHealth": 24.0,
+        "scalingModifier": 1.8,
+        "entityIsEnemy": true,
+        "minSpawnFloor": 7,
+        "lootTable": [
+            {
+                "itemID": "currency:gold",
+                "dropChance": 0.10,
+                "minQuantity": 3,
+                "maxQuantity": 11
+            },
+            {
+                "itemID": "currency:gem",
+                "dropChance": 0.08,
+                "minQuantity": 1,
+                "maxQuantity": 3
+            },
+            {
+                "itemID": "item:dagger_2",
+                "dropChance": 0.08,
+                "minQuantity": 1,
+                "maxQuantity": 1
+            }
+        ]
+    },
+    {
+        "entityID": "angry_gnome",
+        "entityName": "Angry Gnome",
+        "spritePath": "angry_gnome.png",
+        "maxHealth": 40.0,
+        "scalingModifier": 1.4,
+        "entityIsEnemy": true,
+        "minSpawnFloor": 8,
+        "lootTable": [
+            {
+                "itemID": "currency:gold",
+                "dropChance": 0.10,
+                "minQuantity": 3,
+                "maxQuantity": 11
+            },
+            {
+                "itemID": "currency:gem",
+                "dropChance": 0.08,
+                "minQuantity": 1,
                 "maxQuantity": 3
             }
         ]
