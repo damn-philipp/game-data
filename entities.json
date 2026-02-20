@@ -163,6 +163,12 @@
                 "dropChance": 0.14,
                 "minQuantity": 1,
                 "maxQuantity": 1
+            },
+            {
+                "itemID": "item:mace_2",
+                "dropChance": 0.09,
+                "minQuantity": 1,
+                "maxQuantity": 1
             }
         ]
     },

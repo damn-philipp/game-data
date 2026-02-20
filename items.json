@@ -116,5 +116,22 @@
         "baseFaiScaling": 0.6,
         "buyValue": 210.0,
         "sellValue": 50.0
+    },
+    {
+        "itemID": "mace_2",
+        "itemType": 0,
+        "itemRarity": 1,
+        "itemClass": 3,
+        "itemName": "Spike Mace",
+        "spritePath": "mace_2.png",
+        "maxRollModifier": 1.12,
+        "baseBaseDamage": 18.0,
+        "baseStrScaling": 0.5,
+        "baseDexScaling": 0.0,
+        "baseIntScaling": 0.0,
+        "baseConScaling": 0.0,
+        "baseFaiScaling": 0.9,
+        "buyValue": 210.0,
+        "sellValue": 50.0
     }
 ]
